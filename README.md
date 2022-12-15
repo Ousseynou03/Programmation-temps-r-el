@@ -1,3 +1,5 @@
 # Programmation-temps-r-el
 
-Tp Complet de programmation temps Réel avec Monsieur Benba
+Tp Complets De Prorammation distribué en C
+- serveur- client 
+- serveur - multi-Client
